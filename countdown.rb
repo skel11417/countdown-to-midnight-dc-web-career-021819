@@ -5,4 +5,5 @@ def countdown(input)
     puts "#{input}"
     input -= 1
   end
+  return "HAPPY NEW YEAR!"
 end
